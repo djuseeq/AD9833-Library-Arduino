@@ -22,7 +22,7 @@ SetOutputSource	KEYWORD2
 SetWaveform	KEYWORD2
 EnableOutput	KEYWORD2
 SleepMode	KEYWORD2
-EnableDAC	KEYWORD2
+DisableDAC	KEYWORD2
 EnableInternalClock	KEYWORD2
 GetActualProgrammedFrequency	KEYWORD2
 GetActualProgrammedPhase	KEYWORD2
